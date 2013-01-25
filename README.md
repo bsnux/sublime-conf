@@ -27,12 +27,12 @@ Installation
 
 3. Install [Package Control](http://wbond.net/sublime_packages/package_control).
 
-4. Execute following commands:
+4. Execute following command:
+   
+    4.1. Linux: 	
 
-	* Linux:
+    `ln -s ~/sublime-conf/ ~/.config/sublime-text-2/Packages/User/`
 
-		`$ ln -s ~/sublime-conf/ ~/.config/sublime-text-2/Packages/User/`
+    4.2 Mac OS X:
 
-	* Mac OS X:
-
-		`ln -s ~/sublime-conf/ ~/Library/Application Support/Sublime Text 2/Packages/User`
+    `ln -s ~/sublime-conf/ ~/Library/Application Support/Sublime Text 2/Packages/User`
