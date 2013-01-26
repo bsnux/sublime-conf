@@ -4,6 +4,8 @@
 	[
 		"CoffeeScript",
 		"Crypto",
+		"CTags",
+		"Fabric Tasks",
 		"Find Function Definiton",
 		"Format SQL",
 		"Gist",
@@ -11,6 +13,8 @@
 		"HTML5",
 		"Markdown Preview",
 		"Package Control",
+		"SideBarEnhancements",
+		"SideBarGit",
 		"SublimeLinter",
 		"SublimeTODO",
 		"Todo.txt Syntax"
