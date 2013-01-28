@@ -4,6 +4,7 @@
 	[
 		"CoffeeScript",
 		"Crypto",
+		"CSV",
 		"CTags",
 		"Fabric Tasks",
 		"Find Function Definiton",
