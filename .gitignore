@@ -1,3 +1,4 @@
 *.cache
 Package Control.last-run
 .DS_Store
+Gist.sublime-settings
