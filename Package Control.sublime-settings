@@ -1,11 +1,11 @@
 {
-	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"CoffeeScript",
 		"Crypto",
 		"CSV",
 		"CTags",
+		"Djaneiro",
 		"Fabric Tasks",
 		"FileDiffs",
 		"Find Function Definiton",
@@ -21,6 +21,7 @@
 		"Package Control",
 		"Pomodoro",
 		"SearchInProject",
+		"SetDjangoSyntax",
 		"SideBarEnhancements",
 		"SideBarGit",
 		"SublimeLinter",
