@@ -1,17 +1,5 @@
 {
 	"font_size": 14.0,
-	"caret_style": "smooth",
-	"word_wrap": true,
-	"file_exclude_patterns":
-  	[
-    	".DS_Store",
-    	".tags",
-    	".tags_sorted_by_file"
-  	],
-	"rulers":
-	[
-		80
-	],
 	"ignored_packages":
 	[
 		"Vintage"
