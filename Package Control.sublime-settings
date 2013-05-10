@@ -24,9 +24,11 @@
 		"SetDjangoSyntax",
 		"SideBarEnhancements",
 		"SideBarGit",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeRope",
 		"SublimeTODO",
-		"Todo.txt Syntax"
+		"Todo.txt Syntax",
+		"TrailingSpaces"
 	]
 }
