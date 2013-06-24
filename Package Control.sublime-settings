@@ -10,6 +10,7 @@
 		"FileDiffs",
 		"Find Function Definiton",
 		"Format SQL",
+		"FTPSync",
 		"Gist",
 		"Git",
 		"HTML5",
@@ -24,10 +25,12 @@
 		"SetDjangoSyntax",
 		"SideBarEnhancements",
 		"SideBarGit",
+		"SublimeBlockCursor",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeRope",
 		"SublimeTODO",
+		"Task Timer",
 		"Todo.txt Syntax",
 		"TrailingSpaces"
 	]
