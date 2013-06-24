@@ -1,0 +1,16 @@
+{
+	"caret_style": "smooth",
+	"font_face": "Monaco",
+	"font_size": 13,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"remember_open_files": false,
+	"rulers":
+	[
+		80
+	],
+	"vintage_start_in_command_mode": true
+}
