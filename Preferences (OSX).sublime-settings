@@ -18,5 +18,6 @@
     	".tags_sorted_by_file"
   	],
 	"vintage_start_in_command_mode": true,
-	"highlight_line": true
+	"highlight_line": true,
+    "translate_tabs_to_spaces": true
 }
