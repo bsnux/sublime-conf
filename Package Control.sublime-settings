@@ -1,4 +1,5 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"CoffeeScript",
@@ -8,7 +9,7 @@
 		"Djaneiro",
 		"Fabric Tasks",
 		"FileDiffs",
-		"Find Function Definiton",
+		"Find Function Definition",
 		"Format SQL",
 		"FTPSync",
 		"Gist",
@@ -22,6 +23,8 @@
 		"Package Control",
 		"Pomodoro",
 		"Ruby on Rails snippets",
+		"Sass",
+		"SASS Build",
 		"SearchInProject",
 		"SetDjangoSyntax",
 		"SideBarEnhancements",
