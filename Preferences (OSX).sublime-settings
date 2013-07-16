@@ -19,5 +19,6 @@
   	],
 	"vintage_start_in_command_mode": true,
 	"highlight_line": true,
-    "translate_tabs_to_spaces": true
+    "translate_tabs_to_spaces": true,
+    "default_line_ending": "unix"
 }
