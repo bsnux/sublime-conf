@@ -2,7 +2,6 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
-		"CoffeeScript",
 		"Crypto",
 		"CSV",
 		"CTags",
@@ -25,6 +24,7 @@
 		"Nettuts+ Fetch",
 		"Package Control",
 		"Pomodoro",
+		"Pylinter",
 		"Ruby on Rails snippets",
 		"Sass",
 		"SASS Build",
