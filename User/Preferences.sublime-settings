@@ -1,0 +1,32 @@
+{
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		".tags",
+		".tags_sorted_by_file"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".build",
+		".idea",
+		".vscode",
+		"node_modules",
+		"collected-static"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
