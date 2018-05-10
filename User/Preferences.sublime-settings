@@ -1,32 +1,24 @@
 {
-	"file_exclude_patterns":
-	[
-		".DS_Store",
-		".tags",
-		".tags_sorted_by_file"
-	],
-	"folder_exclude_patterns":
-	[
-		".svn",
-		".git",
-		".hg",
-		"CVS",
-		".build",
-		".idea",
-		".vscode",
-		"node_modules",
-		"collected-static"
-	],
-	"font_size": 12,
+	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).tmTheme",
+	"draw_white_space": "all",
+	"font_face": "Hack",
+	"font_size": 10,
 	"highlight_line": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage"
 	],
-	"rulers":
+	"line_padding_bottom": 0.5,
+	"line_padding_top": 0.5,
+	"margin": 2,
+	"remember_open_files": false,
+	"rules":
 	[
 		80
 	],
+	"show_minimap": false,
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true
 }

@@ -5,11 +5,22 @@
 	],
 	"installed_packages":
 	[
-		"Anaconda",
+		"Dockerfile Syntax Highlighting",
 		"Git",
 		"GitGutter",
+		"Golang Build",
+		"GoSublime",
+		"gruvbox",
 		"Package Control",
-		"PyYapf Python Formatter",
-		"Solarized Color Scheme"
+		"Railscasts Extended",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-contrib-dockerfilelint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-golint",
+		"SublimeLinter-json",
+		"TerminalView",
+		"Theme - Flatland",
+		"Theme - Spacegray"
 	]
 }
