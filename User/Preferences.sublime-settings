@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
 	"draw_white_space": "all",
 	"font_face": "Hack",
 	"font_size": 10,
@@ -7,12 +7,13 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Vintage"
 	],
 	"line_padding_bottom": 0.5,
 	"line_padding_top": 0.5,
 	"margin": 2,
 	"remember_open_files": false,
-	"rules":
+	"rulers":
 	[
 		80
 	],
