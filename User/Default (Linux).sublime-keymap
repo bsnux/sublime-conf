@@ -11,4 +11,7 @@
     { "keys": ["alt+p"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
 
     { "keys": ["alt+f"], "command": "show_panel", "args": {"panel": "find", "reverse": false} },
+    { "keys": ["alt+n"], "command": "new_file" },
+    { "keys": ["alt+up"], "command": "move_to", "args": {"to": "bof", "extend": false} },
+    { "keys": ["alt+down"], "command": "move_to", "args": {"to": "eof", "extend": false} },
 ]
