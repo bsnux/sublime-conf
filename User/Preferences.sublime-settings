@@ -1,25 +1,26 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
-	//"draw_white_space": "all",
+	"auto_complete": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"font_face": "Hack",
-	"font_size": 10,
+	"font_size": 13,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage"
 	],
-	"line_padding_bottom": 0.5,
-	"line_padding_top": 0.5,
-	"margin": 2,
+	"margin": 1,
 	"remember_open_files": false,
 	"rulers":
 	[
 		80
 	],
+	"show_definitions": false,
+	"show_encoding": true,
 	"show_minimap": false,
 	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"vintage_start_in_command_mode": true
+	"ui_scale": 1.3,
+	"word_wrap": true
 }
