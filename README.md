@@ -9,7 +9,7 @@ Tested on macOS 10.14.16
 
 * Preferences.
 * Keymapping.
-* List of installed packages with *Package Control*.
+* List of installed packages with *Package Control* (`cat User/Package\ Control.sublime-settings`)
 
 ## The User Package
 **Packages/User** is a catch-all directory for custom plugins, snippets, macros, etc.
