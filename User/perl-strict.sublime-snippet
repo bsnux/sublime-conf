@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+use strict;
+use warnings;
+use v5.10;
+]]></content>
+    <scope>source.perl</scope>
+    <tabTrigger>strict</tabTrigger>
+</snippet>

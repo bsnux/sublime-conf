@@ -1,7 +1,0 @@
-[
-  {
-    "caption": "Terminal View: Open zsh Terminal",
-    "command": "terminal_view_open",
-    "args"   : {"title": "Terminal (zsh)", "cmd": "/bin/zsh -l"},
-  },
-]

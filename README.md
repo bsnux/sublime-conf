@@ -1,24 +1,23 @@
-sublime-conf
-============
+# sublime-conf
 
 My personal configuration for [Sublime Text 3](http://www.sublimetext.com/).
 
-What's inside?
--------------------
+Updated to 3.2.2
+Tested on macOS 10.14.16
+
+## What's inside?
 
 * Preferences.
 * Keymapping.
 * List of installed packages with *Package Control*.
 
-The User Package
------------------
+## The User Package
 **Packages/User** is a catch-all directory for custom plugins, snippets, macros, etc.
 Consider it your personal area in the packages folder. *Sublime Text 3* will never
 overwrite the contents of **Packages/User** during upgrades.
 
 
-Installation
-------------
+## Installation
 
 1. Install **Sublime Text 3**
 

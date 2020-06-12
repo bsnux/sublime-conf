@@ -1,11 +1,4 @@
 // SublimeLinter Settings - User
 {
-    "show_panel_on_save": "window",
-    "lint_mode": "save",
-    "linters": {
-        "rubocop": {
-            "env": {"PATH": "/usr/local/opt/ruby/bin/"},
-            "executable": "/usr/local/lib/ruby/gems/2.6.0/bin/rubocop"
-        }
-    }
+    "lint_mode": "save"
 }

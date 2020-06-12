@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+cmd = "${1}"
+output = subprocess.check_output(cmd, shell=True).decode('utf-8').strip()
+print(output)
+]]></content>
+    <tabTrigger>cmd</tabTrigger> -->
+    <scope>source.python</scope> -->
+</snippet>

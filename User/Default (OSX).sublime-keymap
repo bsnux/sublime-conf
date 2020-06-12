@@ -1,4 +1,3 @@
 [
-    {"keys": ["command+'"], "command": "expand_selection_to_quotes"},
-    {"keys": ["ctrl+="], "command": "expand_region" }
+    { "keys": ["ctrl+;"], "command": "ace_jump_char"}
 ]
