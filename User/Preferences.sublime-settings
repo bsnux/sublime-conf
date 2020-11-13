@@ -3,12 +3,13 @@
 	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-ocean.tmTheme",
 	"find_selected_text": true,
 	"font_face": "Hack",
-	"font_size": 11.5,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Rust"
 	],
 	"margin": 1,
 	"open_files_in_new_window": false,
