@@ -1,13 +1,10 @@
 {
 	"clients":
 	{
-		"gopls":
+		"pyls":
 		{
-			"enabled": true
-		},
-		"rust-analyzer":
-		{
-			"enabled": true
+			"enabled": true,
+			"command": ["/usr/local/bin/pylsp"]
 		}
 	}
 }

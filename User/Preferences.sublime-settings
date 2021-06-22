@@ -1,27 +1,35 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-ocean.tmTheme",
+	"color_scheme": "Packages/User/bsnux.tmTheme",
 	"find_selected_text": true,
 	"font_face": "Hack",
-	"font_size": 12,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Rust"
+		//"Vintage",
+/*"LSP-json",*/
+/*"SublimeLinter",*/
+/*"SublimeLinter-pylint",*/
+/*"SublimeLinter-contrib-staticcheck",*/
+/*"LSP",*/
+/*"LSP",*/
+/*"RSpec Buddy",*/
+/*"rsub",*/
+/*"RemoteSubl",*/
+/*"Rust Enhanced",*/
+		"Rust",
 	],
 	"margin": 1,
-	"open_files_in_new_window": false,
-	"rulers":
-	[
-		80
-	],
+	"rulers":[80],
 	"show_definitions": false,
 	"show_encoding": true,
 	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"ui_scale": 1.2,
-	"word_wrap": true
+	"trim_trailing_white_space_on_save": "all",
+	"ui_scale": 1.1,
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": true,
 }
