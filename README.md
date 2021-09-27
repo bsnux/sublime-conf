@@ -1,9 +1,9 @@
 # sublime-conf
 
-My personal configuration for [Sublime Text 3](http://www.sublimetext.com/).
+My personal configuration for [Sublime Text 4](http://www.sublimetext.com/).
 
-Updated to 3.2.2
-Tested on macOS 10.14.16
+Updated to 4
+Tested on macOS 11.6
 
 ## What's inside?
 
@@ -25,8 +25,5 @@ overwrite the contents of **Packages/User** during upgrades.
 
 3. Install [Package Control](http://wbond.net/sublime_packages/package_control).
 
-4. Execute following command (*Linux*):
+4. Link this directory to the default Sublime Text 4 config directory
 
-   ```
-   $ ln -s ./User  ~/.config/sublime-text-3/Packages/User
-   ```

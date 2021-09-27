@@ -6,6 +6,11 @@
         "command": "toggle_terminus_panel"
     },
     {
+        "keys": ["ctrl+,"], "command": "terminus_open", "args": {
+            "cwd": "${file_path:${folder}}"
+        }
+    },
+    {
         "keys": [
             "super+1"
         ],
@@ -22,5 +27,6 @@
         "args": {
             "group": 1
         }
-    }
+    },
+    { "keys": ["f4"], "command": "go_imports" }
 ]

@@ -4,7 +4,11 @@
 		"pyls":
 		{
 			"enabled": true,
-			"command": ["/usr/local/bin/pylsp"]
-		}
-	}
+			"command": ["/usr/local/bin/pylsp"],
+		},
+		"gopls":
+		{
+			"enabled": true
+		},
+	},
 }

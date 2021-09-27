@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+[source,bash]
+----
+$1
+----
+]]></content>
+    <tabTrigger>bash</tabTrigger> -->
+    <scope>text.asciidoc</scope> -->
+</snippet>

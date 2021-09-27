@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+[source,yaml]
+----
+$1
+----
+]]></content>
+    <tabTrigger>yaml</tabTrigger> -->
+    <scope>text.asciidoc</scope> -->
+</snippet>
