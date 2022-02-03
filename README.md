@@ -13,13 +13,13 @@ Tested on macOS 11.6
 
 ## The User Package
 **Packages/User** is a catch-all directory for custom plugins, snippets, macros, etc.
-Consider it your personal area in the packages folder. *Sublime Text 3* will never
+Consider it your personal area in the packages folder. *Sublime Text 4* will never
 overwrite the contents of **Packages/User** during upgrades.
 
 
 ## Installation
 
-1. Install **Sublime Text 3**
+1. Install **Sublime Text 4**
 
 2. Clone this repo. We're assuming you're going to use your *home* directory.
 
