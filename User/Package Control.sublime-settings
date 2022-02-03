@@ -1,37 +1,7 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
 	"installed_packages":
 	[
-		"Asciidoctor",
-		"Base Encoder",
-		"Brackets Color Scheme",
-		"Dockerfile Syntax Highlighting",
-		"EditorConfig",
-		"Elixir",
-		"GitGutter",
-		"Gofmt",
-		"GoImports",
-		"ImsiEncoder",
-		"INI",
-		"JSON Key-Value",
-		"LSP",
-		"LSP-bash",
-		"LSP-dockerfile",
-		"LSP-json",
-		"LSP-pylsp",
-		"Package Control",
-		"RemoteSubl",
-		"RSpec Buddy",
-		"rsub",
-		"Rust Enhanced",
-		"SublimeLinter",
-		"SublimeLinter-contrib-staticcheck",
-		"SublimeLinter-pylint",
-		"Terminus",
-		"Terraform",
-		"TypeScript",
+		"Package Control"
 	],
 }

@@ -1,8 +1,0 @@
-// Settings in here override those in "LSP-pylsp/LSP-pylsp.sublime-settings"
-{
-    "pylsp.plugins.pycodestyle.enabled": false,
-    "pylsp.plugins.pylint.enabled": true,
-    "pylsp.plugins.autopep8.enabled": false,
-    "pylsp.plugins.yapf.enabled": true,
-    "pylsp.plugins.pyls_isort.enabled": true
-}
