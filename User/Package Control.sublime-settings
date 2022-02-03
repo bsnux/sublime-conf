@@ -2,6 +2,14 @@
 	"bootstrapped": true,
 	"installed_packages":
 	[
-		"Package Control"
+		"Base Encoder",
+		"Dockerfile Syntax Highlighting",
+		"EditorConfig",
+		"Package Control",
+		"Terraform",
+		"TerraformSnippets-AWS",
+	],
+	"in_process_packages":
+	[
 	],
 }
