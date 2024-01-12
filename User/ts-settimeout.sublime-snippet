@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+setTimeout(() => {
+	$TM_SELECTED_TEXT$0
+}, ${1:timeout});
+
+]]></content>
+      <tabTrigger>settimeout</tabTrigger>
+      <scope>source.ts</scope>
+</snippet>

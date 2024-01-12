@@ -1,20 +1,34 @@
 // Settings in here override those in "Default/Preferences.sublime-settings",
 // and are overridden in turn by syntax-specific settings.
 {
-	"color_scheme": "Packages/User/bsnux.tmTheme",
-	"font_face": "JetBrains Mono",
-	"bold_folder_labels": true,
-	"find_selected_text": true,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
-	"hot_exit": false,	
-	"margin": 1,
-	"rulers":[80],
-	"show_definitions": false,
-	"show_encoding": true,
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": "all",
+	"font_face": "JetBrains Mono NL",
+	//"font_face": "Monaco",
 	"ui_scale": 1.1,
+	"rulers": [
+		80
+	],
+	"ignored_packages": [
+		"LSP-copilot",
+		"Package Control",
+	],
+	"trim_trailing_white_space_on_save": "all",
+	"caret_style": "smooth",
+	"caret_extra_bottom": 0,
+	"caret_extra_top": 0,
+	"caret_extra_width": 1,
+	"hot_exit": "disabled",
+	"highlight_line": true,
+	"show_encoding": true,
+	"word_wrap": true,
 	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
-	"word_wrap": true
+	"font_size": 12,
+	"theme": "auto",
+	"ignored_words":
+	[
+		"Github",
+		"Tekton",
+		"Tivan",
+		"backend",
+		"monorepo",
+	],
 }

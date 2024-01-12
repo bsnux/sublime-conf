@@ -1,0 +1,58 @@
+// Settings in here override those in "LSP/LSP.sublime-settings"
+{
+  "lsp_format_on_save": true,
+  "clients": {
+    "haskell-language-server": {
+      "enabled": true,
+      "command": [
+        "/Users/arturo.fernandez/.ghcup/hls/2.3.0.0/bin/haskell-language-server-wrapper",
+        "--lsp"
+      ],
+      "selector": "source.haskell",
+    },
+    "diagnostic-ls": {
+      "enabled": true,
+      "command": [
+        "diagnostic-languageserver",
+        "--stdio"
+      ],
+      "selector": "source.shell.bash",
+      "initializationOptions": {
+        "linters": {
+          "shellcheck": {
+            "command": "shellcheck",
+            "args": [
+              "--format=json",
+              "-"
+            ],
+            "debounce": 100,
+            "formatLines": 1,
+            "offsetLine": 0,
+            "offsetColumn": 0,
+            "sourceName": "shellcheck",
+            "parseJson": {
+              "line": "line",
+              "column": "column",
+              "endLine": "endLine",
+              "endColumn": "endColumn",
+              "security": "level",
+              "message": "\\${message} [\\${code}]",
+            },
+            "securities": {
+              "error": "error",
+              "warning": "warning",
+              "note": "info",
+            },
+          },
+        },
+        "formatters": {},
+        "filetypes": {
+          "shellscript": "shellcheck",
+        },
+      },
+    },
+    "ocaml": {
+      "enabled": true
+    },
+  },
+}

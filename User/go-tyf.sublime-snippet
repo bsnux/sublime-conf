@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+type ${1:name} func($3) $4
+
+]]></content>
+    <tabTrigger>tyf</tabTrigger>
+    <scope>source.go</scope>
+</snippet>

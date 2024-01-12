@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+if (${1:condition}) {
+	$TM_SELECTED_TEXT$0
+} else {
+	
+}
+
+]]></content>
+      <tabTrigger>ifelse</tabTrigger>
+      <scope>source.ts</scope>
+</snippet>

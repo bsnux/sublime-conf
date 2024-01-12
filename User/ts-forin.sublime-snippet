@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+for (const ${1:key} in ${2:object}) {
+	if (Object.prototype.hasOwnProperty.call(${2:object}, ${1:key})) {
+		const ${3:element} = ${2:object}[${1:key}];
+		$TM_SELECTED_TEXT$0
+	}
+}
+
+]]></content>
+      <tabTrigger>forin</tabTrigger>
+      <scope>source.ts</scope>
+</snippet>

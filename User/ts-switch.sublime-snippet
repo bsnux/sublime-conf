@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+switch (${1:key}) {
+	case ${2:value}:
+		$0
+		break;
+
+	default:
+		break;
+}
+
+]]></content>
+      <tabTrigger>switch</tabTrigger>
+      <scope>source.ts</scope>
+</snippet>

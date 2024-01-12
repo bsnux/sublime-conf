@@ -1,0 +1,18 @@
+[
+	{
+		"keys": [
+			"ctrl+,"
+		],
+		"command": "toggle_terminus_panel"
+	},
+	{
+		"keys": [
+			"f4"
+		],
+		"command": "github_copy_link"
+	},
+	{
+		"keys": ["f2"],
+		"command": "copilot_get_panel_completions"
+	}
+]

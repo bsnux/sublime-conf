@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+${1:array}.forEach(${2:element} => {
+	$TM_SELECTED_TEXT$0
+});
+
+]]></content>
+      <tabTrigger>foreach</tabTrigger>
+      <scope>source.ts</scope>
+</snippet>

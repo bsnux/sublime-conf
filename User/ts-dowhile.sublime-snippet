@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+do {
+	$TM_SELECTED_TEXT$0
+} while (${1:condition});
+
+]]></content>
+      <tabTrigger>dowhile</tabTrigger>
+      <scope>source.ts</scope>
+</snippet>

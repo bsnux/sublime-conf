@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+for await (const ${1:iterator} of ${2:object}) {
+	$TM_SELECTED_TEXT$0
+}
+
+]]></content>
+      <tabTrigger>forawaitof</tabTrigger>
+      <scope>source.ts</scope>
+</snippet>

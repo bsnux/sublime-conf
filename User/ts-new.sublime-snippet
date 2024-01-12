@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const ${1:name} = new ${2:type}(${3:arguments});$0
+
+]]></content>
+      <tabTrigger>new</tabTrigger>
+      <scope>source.ts</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+class ${1:name} {
+	constructor(${2:parameters}) {
+		$0
+	}
+}
+
+]]></content>
+      <tabTrigger>class</tabTrigger>
+      <scope>source.ts</scope>
+</snippet>

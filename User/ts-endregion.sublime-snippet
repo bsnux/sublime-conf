@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+//#endregion
+
+]]></content>
+      <tabTrigger>endregion</tabTrigger>
+      <scope>source.ts</scope>
+</snippet>

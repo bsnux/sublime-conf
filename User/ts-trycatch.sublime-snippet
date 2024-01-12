@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+try {
+	$TM_SELECTED_TEXT$0
+} catch (${1:error}) {
+	
+}
+
+]]></content>
+      <tabTrigger>trycatch</tabTrigger>
+      <scope>source.ts</scope>
+</snippet>

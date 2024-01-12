@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+func TestMain(m *testing.M) {
+	$1
+
+	os.Exit(m.Run())
+}
+
+]]></content>
+    <tabTrigger>tm</tabTrigger>
+    <scope>source.go</scope>
+</snippet>
